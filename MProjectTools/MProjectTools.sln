@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamListEditor", "ParamListEditor\ParamListEditor.csproj", "{A4780555-B423-4F1F-AE81-BD241EF76239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieMaker", "MovieMaker\MovieMaker.csproj", "{30938003-E15F-4C10-97D3-054591C6E040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4780555-B423-4F1F-AE81-BD241EF76239}.Debug|x86.ActiveCfg = Debug|x86
+		{A4780555-B423-4F1F-AE81-BD241EF76239}.Debug|x86.Build.0 = Debug|x86
+		{A4780555-B423-4F1F-AE81-BD241EF76239}.Release|x86.ActiveCfg = Release|x86
+		{A4780555-B423-4F1F-AE81-BD241EF76239}.Release|x86.Build.0 = Release|x86
+		{30938003-E15F-4C10-97D3-054591C6E040}.Debug|x86.ActiveCfg = Debug|x86
+		{30938003-E15F-4C10-97D3-054591C6E040}.Debug|x86.Build.0 = Debug|x86
+		{30938003-E15F-4C10-97D3-054591C6E040}.Release|x86.ActiveCfg = Release|x86
+		{30938003-E15F-4C10-97D3-054591C6E040}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
